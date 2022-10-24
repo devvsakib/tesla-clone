@@ -1,3 +1,5 @@
+![](public/images/Screenshot_1.png)
+
 ## DevvSakib Repo
 I have cloned Tesla website. This repo contain source code of tesla website clone, it will help you to clone tesla website. Free free to clone or fork!
 
@@ -8,7 +10,6 @@ In the project directory, you can run:
 First type `npm install`
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
